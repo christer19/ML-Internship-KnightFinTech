@@ -1,4 +1,2 @@
 # ML-Internship-KnightFinTech
-KnightFinTech Internship Assignment
-results are attached all the description are also given, grid serach is present at thhe the last cells of the notebook and can be run
-due to lack of powerful hardware it was taking too long to tune my hyperparameters.Thank you
+Wine classifictaion based on reviews features and score provided by experts in a magazine, Using H2o.ai, everything has been clearly annotated, grid search cv parameter grids ahve been inlcuding for hyperparameter tuning, run on your own risk and computational power and good hardware is required.Hope you like it!
